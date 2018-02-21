@@ -19,6 +19,39 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+/* ----------------------------------------------------- */
+/* Custom CSS */
+/* ----------------------------------------------------- */
+
+.skills {
+  margin: 15px;
+}
+
+.logoImage {
+  height: 6em;
+  margin: 10px;
+}
+
+.skillsRow {
+  height: 10em;
+  margin: 20px;
+  padding-left: 8em;
+}
+
+.margin30 {
+  margin: 5em;
+}
+
+.skillsContainer {
+  padding-bottom: 10em;
+}
+
+#sql {
+  height: 3em;
+  width: 5em;
+}
+
+
 /*
 /*-----------------------------------------------------------------------------------*/
 /*	RESET
@@ -1069,7 +1102,7 @@ MULTI LEVEL DROPDOWN CSS
   border-radius: 0px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .dropdown-submenu > .dropdown-menu {
     display: block;
     margin-left: 15px;
@@ -1169,7 +1202,7 @@ MULTI LEVEL DROPDOWN CSS
   height: 30px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .news-form {
     text-align: center !important;
   }
