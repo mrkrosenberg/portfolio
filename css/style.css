@@ -51,6 +51,20 @@ body {
   width: 5em;
 }
 
+.mfp-img {
+  margin-top: 50px;
+}
+
+#headline {
+  color:#050505;
+  /* border: 2px solid #32c5d2; */
+  /* background: rgba(50, 197, 210, 0.37); */
+}
+
+#headlineSpan {
+  color: rgba(50, 197, 210, 1);
+}
+
 
 /*
 /*-----------------------------------------------------------------------------------*/
